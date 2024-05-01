@@ -18,3 +18,11 @@ plt.tick_params(axis='both', which='both', direction='in', bottom=True, top=True
 ```
 
 Success!
+
+## Step 4: Add a task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Make more task lists
+
